@@ -1,0 +1,1 @@
+A basic pseudo random number generator based in rust based on the MT19937 standard of the Mersenne Twister algorithm.
